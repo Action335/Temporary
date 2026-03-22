@@ -1,0 +1,19 @@
+.menucontainer {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    height: 60px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.logoimg {
+    width: auto;
+    height: 36px;
+    object-fit: contain;
+}

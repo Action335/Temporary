@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///C:/SWDevPrac2Pro/fe-project-68-returndino/src/providers/NextAuthProvider.tsx"],"sourcesContent":["\"use client\"\nimport { SessionProvider } from \"next-auth/react\"\n\nexport default function NextAuthProvider({ children, session }\n    : { children: React.ReactNode, session: any }): React.ReactNode {\n    return (\n        <SessionProvider session={session}>\n            {children}\n        </SessionProvider>\n    )\n}\n"],"names":[],"mappings":";;;;AACA;AADA;;;AAGe,SAAS,iBAAiB,KACQ;QADR,EAAE,QAAQ,EAAE,OAAO,EACX,GADR;IAErC,qBACI,6LAAC,iJAAA,CAAA,kBAAe;QAAC,SAAS;kBACrB;;;;;;AAGb;KAPwB","debugId":null}}]
+}

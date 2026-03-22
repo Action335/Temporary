@@ -1,0 +1,33 @@
+/* [project]/src/components/banner.module.css [app-client] (css) */
+.banner-module__tV5jMW__banner {
+  cursor: pointer;
+  width: 100%;
+  height: 420px;
+  position: relative;
+  overflow: hidden;
+}
+
+.banner-module__tV5jMW__bannerimage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  transition: opacity .3s;
+}
+
+.banner-module__tV5jMW__bannertext {
+  color: #fff;
+  text-align: center;
+  background: rgba(0, 0, 0, .38);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 24px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=src_components_banner_module_2f6c16ca.css.map*/

@@ -1,0 +1,16 @@
+/* [project]/src/components/card.module.css [app-client] (css) */
+.card-module__0fl7Ca__card {
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  transition: box-shadow .2s, transform .2s;
+}
+
+.card-module__0fl7Ca__card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .12);
+}
+
+/*# sourceMappingURL=src_components_card_module_2d5b2968.css.map*/

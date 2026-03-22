@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/components/topmenu.module.css"],"sourcesContent":[".menucontainer {\n    position: sticky;\n    top: 0;\n    z-index: 50;\n    height: 60px;\n    background-color: #ffffff;\n    border-bottom: 1px solid #e5e7eb;\n    display: flex;\n    flex-direction: row;\n    justify-content: center;\n    align-items: center;\n    box-shadow: 0 1px 4px rgba(0,0,0,0.08);\n}\n\n.logoimg {\n    width: auto;\n    height: 36px;\n    object-fit: contain;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;AAcA"}}]
+}
